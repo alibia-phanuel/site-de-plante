@@ -1,4 +1,3 @@
-import React from "react";
 import flors from "../../assets/flors.png";
 import { motion } from "framer-motion";
 const OurBest = () => {
