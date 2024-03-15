@@ -1,4 +1,4 @@
-import React from "react";
+
 import cardTesti from "../../assets/testi-card.png";
 import prof1 from "../../assets/prof1.png";
 import prof2 from "../../assets/prof2.png";
