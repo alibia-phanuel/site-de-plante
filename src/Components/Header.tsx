@@ -5,7 +5,7 @@ import bars from "../assets/bars.png";
 import { useState } from "react";
 
 const Header = () => {
-  const [isblock, setBlock] = useState<boolean>(false);
+  const [isblock, setBlock] = useState<boolean>(true);
   const showMenuResponsive = isblock ? "" : "h-[350px]  transition-all";
   return (
     <>
